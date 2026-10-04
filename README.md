@@ -23,6 +23,10 @@ Welcome to the workshop hub for **SAPinsider 2026 in Copenhagen and Sydney**. Th
 
 The detailed lab instructions, prerequisites, and session schedule will be added here when finalized. No setup steps or workshop registration link are published in this repository yet.
 
+## Get started
+
+Start with the Tutorial [here](/workshop/tutorial.md)
+
 ## Explore while you wait
 
 - [Previous Microsoft Copilot Studio + SAP hands-on workshop](https://github.com/hobru/Microsoft-Copilot-Studio-und-SAP) — example labs and integration patterns.
