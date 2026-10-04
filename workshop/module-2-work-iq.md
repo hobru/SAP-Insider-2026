@@ -1,6 +1,8 @@
-# Module 2: Work IQ
+# 🧠 Module 2: Work IQ
 
-[Back to workshop modules](tutorial.md)
+[🏠 Welcome](../README.md) · [🗺️ Workshop map](tutorial.md) · [🎤 Presentation outline](presentation.md)
+
+**Your route:** [1 · Getting started](module-1-getting-started.md) → **2 · Work IQ** → [3 · MCP](module-3-mcp.md) → [4 · A2A](module-4-a2a.md)
 
 ## Add Work IQ
 
@@ -45,5 +47,12 @@ instructors can pre-provision OneDrive sites with `Request-SPOPersonalSite`.
 
 </details>
 
-**Previous:** [Module 1: Getting started with Copilot Studio](module-1-getting-started.md)  
-**Next:** [Module 3: Model Context Protocol (MCP)](module-3-mcp.md)
+---
+
+## 🧭 Where to next?
+
+**Previous:** [← Module 1 · Getting started](module-1-getting-started.md)
+
+**Next:** [Module 3 · MCP →](module-3-mcp.md)
+
+[🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)

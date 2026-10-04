@@ -1,9 +1,13 @@
-# Copilot Studio with SAP MCP, A2A, and Work IQ
+# 🧭 Copilot Studio with SAP MCP, A2A, and Work IQ
+
+[🏠 Welcome](../README.md) · [🎤 Presentation outline](presentation.md) · [💬 Guided conversation](conversation-script.md)
+
+**Your route:** [1 · Getting started](module-1-getting-started.md) → [2 · Work IQ](module-2-work-iq.md) → [3 · MCP](module-3-mcp.md) → [4 · A2A](module-4-a2a.md)
 
 This hands-on workshop is organized into four modules. Complete them in order so that
 one Copilot Studio agent progressively gains Microsoft 365 and SAP capabilities.
 
-## Workshop modules
+## 🚀 Workshop modules
 
 ### 1. [Getting started with Copilot Studio](module-1-getting-started.md)
 
@@ -25,7 +29,7 @@ Sales Orders and line items from SAP.
 Connect the prepared SAP Business Partner and Product agent, create its connection,
 and test Product, category, supplier, and Business Partner requests.
 
-## What you will learn
+## 🎯 What you will learn
 
 | Capability | Workshop role |
 | --- | --- |
@@ -35,3 +39,11 @@ and test Product, category, supplier, and Business Partner requests.
 
 The integration services are prepared before the workshop. You configure and test
 their use from Copilot Studio rather than deploying the underlying infrastructure.
+
+---
+
+## 🧭 Where to next?
+
+**Start the lab:** [Module 1 · Getting started →](module-1-getting-started.md)
+
+[🏠 Welcome](../README.md) · [💬 Guided conversation](conversation-script.md) · [⬆️ Back to top](#)

@@ -1,4 +1,6 @@
-# SAP Insider Hands-on Session
+# 🎤 SAP Insider Hands-on Session
+
+[🏠 Welcome](../README.md) · [🗺️ Workshop map](tutorial.md) · [💬 Guided conversation](conversation-script.md)
 
 ## SAP and Microsoft Partnership
 
@@ -39,3 +41,11 @@
 #### Alternatives - Custom Development on BTP, MCP Server on Azure APIM & MCP Server on ABAP
 
 - Hands-on: CAP A2A in Copilot Studio
+
+---
+
+## 🧭 Where to next?
+
+**Start the lab:** [Module 1 · Getting started →](module-1-getting-started.md)
+
+[🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)

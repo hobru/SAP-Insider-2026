@@ -1,6 +1,8 @@
-# Module 4: Agent-to-Agent (A2A)
+# 🤝 Module 4: Agent-to-Agent (A2A)
 
-[Back to workshop modules](tutorial.md)
+[🏠 Welcome](../README.md) · [🗺️ Workshop map](tutorial.md) · [🎤 Presentation outline](presentation.md)
+
+**Your route:** [1 · Getting started](module-1-getting-started.md) → [2 · Work IQ](module-2-work-iq.md) → [3 · MCP](module-3-mcp.md) → **4 · A2A**
 
 ## Add the prepared A2A agent
 
@@ -175,5 +177,12 @@ This confirms that the request was delegated to the A2A agent rather than handle
 one of the MCP tools.
 
 
-**Previous:** [Module 3: Model Context Protocol (MCP)](module-3-mcp.md)  
-**Back to:** [Workshop modules](tutorial.md)
+---
+
+## 🧭 Where to next?
+
+**Previous:** [← Module 3 · MCP](module-3-mcp.md)
+
+**Put it all together:** [Guided conversation · MCP + A2A →](conversation-script.md)
+
+[🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)

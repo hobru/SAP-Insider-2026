@@ -1,6 +1,8 @@
-# Module 1: Getting started with Copilot Studio
+# 🚀 Module 1: Getting started with Copilot Studio
 
-[Back to workshop modules](tutorial.md)
+[🏠 Welcome](../README.md) · [🗺️ Workshop map](tutorial.md) · [🎤 Presentation outline](presentation.md)
+
+**Your route:** **1 · Getting started** → [2 · Work IQ](module-2-work-iq.md) → [3 · MCP](module-3-mcp.md) → [4 · A2A](module-4-a2a.md)
 
 ## Sign in and verify the workshop environment
 
@@ -79,4 +81,10 @@ Copilot Studio and environment access.
 
 </details>
 
-**Next:** [Module 2: Work IQ](module-2-work-iq.md)
+---
+
+## 🧭 Where to next?
+
+**Next:** [Module 2 · Work IQ →](module-2-work-iq.md)
+
+[🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)
