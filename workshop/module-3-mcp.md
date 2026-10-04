@@ -1,6 +1,8 @@
-# Module 3: Model Context Protocol (MCP)
+# 🔌 Module 3: Model Context Protocol (MCP)
 
-[Back to workshop modules](tutorial.md)
+[🏠 Welcome](../README.md) · [🗺️ Workshop map](tutorial.md) · [🎤 Presentation outline](presentation.md)
+
+**Your route:** [1 · Getting started](module-1-getting-started.md) → [2 · Work IQ](module-2-work-iq.md) → **3 · MCP** → [4 · A2A](module-4-a2a.md)
 
 <details>
 <summary>Instructor preparation: SAP MCP Gateway and Copilot Studio registration</summary>
@@ -209,5 +211,12 @@ connector-sharing problem, not an SAP authentication problem.
 
 </details>
 
-**Previous:** [Module 2: Work IQ](module-2-work-iq.md)  
-**Next:** [Module 4: Agent-to-Agent (A2A)](module-4-a2a.md)
+---
+
+## 🧭 Where to next?
+
+**Previous:** [← Module 2 · Work IQ](module-2-work-iq.md)
+
+**Next:** [Module 4 · A2A →](module-4-a2a.md)
+
+[🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)

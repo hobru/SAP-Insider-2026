@@ -1,4 +1,8 @@
-# Guided conversation: Sales Orders with MCP, then master data with A2A
+# 💬 Guided conversation: Sales Orders with MCP, then master data with A2A
+
+[🏠 Welcome](../README.md) · [🗺️ Workshop map](tutorial.md) · [🎤 Presentation outline](presentation.md)
+
+**Your route:** [1 · Getting started](module-1-getting-started.md) → [2 · Work IQ](module-2-work-iq.md) → [3 · MCP](module-3-mcp.md) → [4 · A2A](module-4-a2a.md) → **Guided conversation**
 
 Use these prompts in one continuous Copilot Studio conversation. Do not start a new
 conversation between turns: later prompts deliberately refer to results from earlier
@@ -139,3 +143,11 @@ from generated recommendations.
   is the main learning objective of the exercise.
 - Do not paste credentials, access tokens, or destination details into the
   conversation.
+
+---
+
+## 🧭 Where to next?
+
+**Revisit the lab:** [← Module 4 · A2A](module-4-a2a.md)
+
+[🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)
