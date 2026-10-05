@@ -4,7 +4,7 @@
 
 Welcome to the workshop hub for **SAPinsider 2026 in Copenhagen and Sydney**. This is your starting point for exploring how Microsoft AI and SAP can work together in practical, business-focused scenarios. Come ready to experiment, ask questions, and build alongside other SAP and AI practitioners.
 
-> **New here?** Choose your event below, then follow the [hands-on workshop](workshop/tutorial.md).
+> **New here?** follow the [hands-on workshop](workshop/tutorial.md).
 
 ## 📍 Join us
 
