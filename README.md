@@ -1,19 +1,10 @@
-# 🌍 SAPinsider 2026 | Microsoft AI + SAP
+# 🌍 Microsoft AI + SAP | Hands-on workshop
 
-### Two cities. One hands-on journey from SAP data to AI-powered experiences.
+### One agent. Four modules. A hands-on journey from SAP data to AI-powered experiences.
 
-Welcome to the workshop hub for **SAPinsider 2026 in Copenhagen and Sydney**. This is your starting point for exploring how Microsoft AI and SAP can work together in practical, business-focused scenarios. Come ready to experiment, ask questions, and build alongside other SAP and AI practitioners.
+Welcome to the hands-on workshop hub for building a **Copilot Studio agent with Microsoft 365 and SAP capabilities**. Explore practical, business-focused scenarios, ask questions, and build alongside other SAP and AI practitioners.
 
-> **New here?** Choose your event below, then follow the [hands-on workshop](workshop/tutorial.md).
-
-## 📍 Join us
-
-| Event | When and where | Workshop |
-|---|---|---|
-| [SAPinsider Copenhagen 2026](https://copenhagen.sapinsider.org/) | **16–19 November 2026** · Copenhagen, Denmark | **Microsoft AI Lab** |
-| [Mastering SAP Collaborate, an SAP TechEd on Tour event](https://sapteched.sydney/) | **17–19 November 2026** · ICC Sydney, Australia | Hands-on workshop in Sydney |
-
-**Note:** These are *conference* dates, not confirmed workshop time slots. Check the event websites for the latest agenda, registration, and venue information.
+> **New here?** Start with the [hands-on workshop overview](workshop/tutorial.md), then follow the modules in order.
 
 ## ✨ What to expect
 
@@ -21,7 +12,7 @@ Welcome to the workshop hub for **SAPinsider 2026 in Copenhagen and Sydney**. Th
 - **Learn by doing:** Work through guided exercises rather than just watching demos.
 - **Take ideas home:** Discuss integration approaches, real-world constraints, and where to go next with fellow participants.
 
-The detailed lab instructions are linked below. Additional prerequisites and the session schedule will be added here when finalized. No workshop registration link is published in this repository yet.
+The lab uses a prepared Copilot Studio environment. Your facilitator will provide the participant credentials needed to follow the steps below.
 
 ## 🧭 Explore the workshop
 
@@ -36,9 +27,9 @@ The detailed lab instructions are linked below. Additional prerequisites and the
 
 After the modules: [💬 Try the guided conversation](workshop/conversation-script.md) · [🎤 View the presentation outline](workshop/presentation.md)
 
-## 📚 Explore while you wait
+## 📚 Further resources
 
 - [Previous Microsoft Copilot Studio + SAP hands-on workshop](https://github.com/hobru/Microsoft-Copilot-Studio-und-SAP) — example labs and integration patterns.
 - [SAP with Microsoft AI documentation](https://learn.microsoft.com/en-us/azure/sap/microsoft-ai/about-sap-with-microsoft-ai) — background on SAP and Microsoft AI scenarios.
 
-**See you in Copenhagen or Sydney!**
+**Happy exploring!**

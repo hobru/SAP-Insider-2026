@@ -47,7 +47,7 @@ knowledge, tools, and connected agents.
 2. Start a new chat and ask:
 
    > Hi, what can you do?
-   > tell me about SAP Insider
+   > tell me about SAP
 
 ![Ask the new agent what it can do](images/copilot-studio-preview-hi-what-can-you-do.png)
 

@@ -129,7 +129,7 @@ which returned Product data from `GWSAMPLE_BASIC`.
 
 Enter:
 
-> Which Copenhagen souvenir products are available?
+> Which binder products are available?
 
 The response should identify matching Products, summarize useful business fields, and
 show that the remote agent can search Product names, descriptions, and categories
@@ -153,7 +153,7 @@ Feel free to ask additional questions:
 
 > What souvenirs do we have?
 
-> Find business partners in Copenhagen.
+> Find other business partners in the same city as business partner 0100000029.
 
 Simple lookups usually complete quickly. Broader questions may require Copilot Studio
 to delegate a more complex task to the A2A agent and can take longer.

@@ -1,4 +1,4 @@
-# 🎤 SAP Insider Hands-on Session
+# 🎤 Microsoft AI + SAP Hands-on Session
 
 [🏠 Welcome](../README.md) · [🗺️ Workshop map](tutorial.md) · [💬 Guided conversation](conversation-script.md)
 
