@@ -10,8 +10,10 @@ Welcome to the hands-on workshop hub for building a **Copilot Studio agent with 
 
 | Event | When and where | Workshop |
 |---|---|---|
+| [ASUG Tech Connect 2026](https://events.asug.com/event/asug-tech-connect/asug-tech-connect) | **2–4 November 2026** · Fort Worth, Texas, USA | Workshop details to follow |
 | [SAPinsider Copenhagen 2026](https://copenhagen.sapinsider.org/) | **16–19 November 2026** · Copenhagen, Denmark | **Microsoft AI Lab** |
 | [Mastering SAP Collaborate, an SAP TechEd on Tour event](https://sapteched.sydney/) | **17–19 November 2026** · ICC Sydney, Australia | Hands-on workshop in Sydney |
+| [SAPinsider Las Vegas 2027](https://vegas.sapinsider.org/) | **15–18 March 2027** · Bellagio Hotel & Casino, Las Vegas, Nevada, USA | Workshop details to follow |
 
 **Note:** These are *conference* dates, not confirmed workshop time slots. Check the event websites for the latest agenda, registration, and venue information.
 
