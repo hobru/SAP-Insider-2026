@@ -6,6 +6,15 @@ Welcome to the hands-on workshop hub for building a **Copilot Studio agent with 
 
 > **New here?** Start with the [hands-on workshop overview](workshop/tutorial.md), then follow the modules in order.
 
+## 📍 Join us
+
+| Event | When and where | Workshop |
+|---|---|---|
+| [SAPinsider Copenhagen 2026](https://copenhagen.sapinsider.org/) | **16–19 November 2026** · Copenhagen, Denmark | **Microsoft AI Lab** |
+| [Mastering SAP Collaborate, an SAP TechEd on Tour event](https://sapteched.sydney/) | **17–19 November 2026** · ICC Sydney, Australia | Hands-on workshop in Sydney |
+
+**Note:** These are *conference* dates, not confirmed workshop time slots. Check the event websites for the latest agenda, registration, and venue information.
+
 ## ✨ What to expect
 
 - **Connect the dots:** See how SAP business context can enrich experiences built with Microsoft AI.
