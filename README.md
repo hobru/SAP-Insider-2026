@@ -10,6 +10,7 @@ Welcome to the hands-on workshop hub for building a **Copilot Studio agent with 
 
 | Event | When and where | Workshop |
 |---|---|---|
+| [SAPinsider Summit New Orleans 2026](https://nola.sapinsider.org/) | **29–30 October 2026** · Hilton New Orleans Riverside, New Orleans, Louisiana, USA | Workshop details to follow |
 | [ASUG Tech Connect 2026](https://events.asug.com/event/asug-tech-connect/asug-tech-connect) | **2–4 November 2026** · Fort Worth, Texas, USA | Workshop details to follow |
 | [SAPinsider Copenhagen 2026](https://copenhagen.sapinsider.org/) | **16–19 November 2026** · Copenhagen, Denmark | **Microsoft AI Lab** |
 | [Mastering SAP Collaborate, an SAP TechEd on Tour event](https://sapteched.sydney/) | **17–19 November 2026** · ICC Sydney, Australia | Hands-on workshop in Sydney |
