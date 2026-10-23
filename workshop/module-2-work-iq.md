@@ -11,7 +11,7 @@ Work IQ adds Microsoft 365 capabilities to the same Copilot Studio agent. Work I
 1. Return to **Build** and select **Tools**.
 2. Select **+ Add a tool**.
 ![Select Tools in the agent Build view](images/copilot-studio-select-tools.png)
-3. Search for `Work IQ (`.
+3. Search for `Work IQ`.
 4. Select **Work IQ (Preview)** and then select **Add**.
 ![Search for and select Work IQ](images/copilot-studio-select-work-iq.png)
 5. Confirm that Work IQ appears in the agent's tools.
