@@ -7,7 +7,7 @@
 ## Sign in and verify the workshop environment
 
 1. Open the workshop environment directly:
-   [Copilot Studio Hands-on environment](https://copilotstudio.preview.microsoft.com/environments/db9ed219-4b89-e6b3-86bf-e8f7e695c614).
+   [Copilot Studio Hands-on environment](https://copilotstudio.microsoft.com/environments/db9ed219-4b89-e6b3-86bf-e8f7e695c614).
 
 > [!TIP]
 > Use an InPrivate or Incognito browser window. This avoids conflicts with another
