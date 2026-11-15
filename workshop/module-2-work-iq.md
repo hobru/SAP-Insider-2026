@@ -8,6 +8,10 @@
 
 Work IQ adds Microsoft 365 capabilities to the same Copilot Studio agent. Work IQ operates in the signed-in user's Microsoft 365 context and respects that user's access.
 
+> [!TIP]
+> With the latest update of Copilot Studio, Work IQ is most likely already added by default. You might be able to skip the next steps if Work IQ is already shown under Tools
+> You might still want to click on "+ Add a tool" to explore all of the available tools that can be easily connected to your agent
+
 1. Return to **Build** and select **Tools**.
 2. Select **+ Add a tool**.
 ![Select Tools in the agent Build view](images/copilot-studio-select-tools.png)
@@ -30,6 +34,8 @@ Work IQ adds Microsoft 365 capabilities to the same Copilot Studio agent. Work I
 
 8. Confirm that the agent creates the document and returns it as an attachment.
 
+9. Explore other options and search for documents available in the environment. 
+
 > [!NOTE]
 > The workshop tenant's available licenses may limit searching existing Microsoft 365
 > content. Document creation can still be demonstrated. Searching OneDrive,
@@ -51,8 +57,6 @@ instructors can pre-provision OneDrive sites with `Request-SPOPersonalSite`.
 
 ## 🧭 Where to next?
 
-**Previous:** [← Module 1 · Getting started](module-1-getting-started.md)
-
-**Next:** [Module 3 · MCP →](module-3-mcp.md)
+**Previous:** [← Module 1 · Getting started](module-1-getting-started.md) | **Next:** [Module 3 · MCP →](module-3-mcp.md)
 
 [🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)

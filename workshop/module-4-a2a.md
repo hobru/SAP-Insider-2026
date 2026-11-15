@@ -160,7 +160,7 @@ to delegate a more complex task to the A2A agent and can take longer.
 
 ### Inspect the A2A delegation
 
-Turn off **End-user preview** to switch to the creator view. Expand the orchestration
+Turn off **Debug mode** to switch to the creator view. Expand the orchestration
 details and verify that Copilot Studio called the **A2A-Business-Partner-Product**
 connected agent.
 
@@ -181,8 +181,6 @@ one of the MCP tools.
 
 ## 🧭 Where to next?
 
-**Previous:** [← Module 3 · MCP](module-3-mcp.md)
-
-**Put it all together:** [Guided conversation · MCP + A2A →](conversation-script.md)
+**Previous:** [← Module 3 · MCP](module-3-mcp.md) | **Put it all together:** [Guided conversation · MCP + A2A →](conversation-script.md)
 
 [🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)

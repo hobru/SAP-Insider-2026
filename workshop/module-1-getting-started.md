@@ -13,6 +13,9 @@
 > Use an InPrivate or Incognito browser window. This avoids conflicts with another
 > Microsoft identity that may already be signed in.
 
+> [!IMPORTANT]
+> Don't just open copilotstudio.microsoft.com! You have to use the link above so that you are connected to the correct enviornment with all the required connections configured. 
+ 
 2. Sign in with the workshop user assigned to you, for example
    `student001@tws22.onmicrosoft.com`.
 3. Enter the password provided by the facilitator.

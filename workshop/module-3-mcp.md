@@ -130,7 +130,7 @@ Use this server description:
 
 ![Ask for Sales Orders in Preview](images/copilot-studio-preview-sales-order-prompt.png)
 
-3. The first time the agent invokes an MCP operation, Copilot Studio displays a
+3. The first time the agent invokes an MCP operation, Copilot Studio might displays a
    **Permission Required** card. Review the requested operation and select
    **Approve**.
 
@@ -157,7 +157,7 @@ MCP server, requested approval, and returned live SAP data.
 
 ### Compare the two preview modes
 
-Use the **End-user preview** toggle at the top of the Preview page to switch between:
+Use the **Debug mode** toggle at the top of the Preview page to switch between:
 
 - **Creator view**, which exposes orchestration details such as reasoning steps,
   selected tools, and permission requests
@@ -193,7 +193,7 @@ appropriate approved model without redesigning the agent or its SAP integrations
 Choosing a smaller or less expensive model where advanced reasoning is unnecessary
 can reduce operating costs.
 
-For our lab, leave the model as **Claude Opus 5**
+For our lab, leave the model as **Auto**
 
 ![Select an available model in Copilot Studio](images/copilot-studio-model-selection.png)
 
@@ -215,8 +215,6 @@ connector-sharing problem, not an SAP authentication problem.
 
 ## 🧭 Where to next?
 
-**Previous:** [← Module 2 · Work IQ](module-2-work-iq.md)
-
-**Next:** [Module 4 · A2A →](module-4-a2a.md)
+**Previous:** [← Module 2 · Work IQ](module-2-work-iq.md) | **Next:** [Module 4 · A2A →](module-4-a2a.md)
 
 [🏠 Welcome](../README.md) · [🗺️ All modules](tutorial.md) · [⬆️ Back to top](#)
